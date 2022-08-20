@@ -1,0 +1,6 @@
+#!name=Block HUPU AD
+#!desc=Block HUPU AD
+
+[Rule]
+#hupu广告拦截
+RULE-SET,https://raw.githubusercontent.com/SkyRaker/My_Surge/main/remove_hupu_AD.list,REJECT-NO-DROP
