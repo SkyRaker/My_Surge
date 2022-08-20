@@ -1,0 +1,4 @@
+# Hupu去广告
+DOMAIN,goblin.hupu.com,REJECT
+DOMAIN,e-goblin.hupu.com,REJECT
+DOMAIN,hermes.hupu.com,REJECT
