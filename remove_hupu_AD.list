@@ -3,3 +3,7 @@ DOMAIN,goblin.hupu.com,REJECT
 DOMAIN,e-goblin.hupu.com,REJECT
 DOMAIN,hermes.hupu.com,REJECT
 DOMAIN,dyapi-ad.kajicam.com,REJECT
+# 知乎去广告
+DOMAIN-SUFFIX,ad.zhihu.com,REJECT
+DOMAIN-SUFFIX,unicom.zhihu.com,REJECT
+DOMAIN-SUFFIX,ssp.zhihu.com,REJECT
