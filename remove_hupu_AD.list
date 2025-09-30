@@ -7,3 +7,5 @@ DOMAIN,dyapi-ad.kajicam.com,REJECT
 DOMAIN-SUFFIX,ad.zhihu.com,REJECT
 DOMAIN-SUFFIX,unicom.zhihu.com,REJECT
 DOMAIN-SUFFIX,ssp.zhihu.com,REJECT
+# 拒绝知乎所有 commercial API请求
+URL-REGEX,www.zhihu.com/api/v4/api/commercial,REJECT
